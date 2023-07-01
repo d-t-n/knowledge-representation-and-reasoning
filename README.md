@@ -12,3 +12,7 @@
 - Identify which knowledge-based techniques are appropriate for which task
 
 - Apply KRR systems to challenging real-world problems
+
+
+## 1. Discuss the foundations of KRR
+
