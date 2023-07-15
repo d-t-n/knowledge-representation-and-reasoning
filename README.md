@@ -39,6 +39,8 @@ KRR has numerous practical applications across various domains. In AI, KRR techn
 
 In summary, KRR is a fundamental area of AI that focuses on representing knowledge in formal languages and enabling automated reasoning. It provides the foundation for intelligent decision-making, problem-solving, and understanding complex domains. By leveraging techniques such as ontologies, logic-based formalisms, inference engines, and probabilistic reasoning, KRR enables the development of intelligent systems that can process and reason with knowledge effectively. As KRR continues to evolve, it holds the promise of enabling more advanced AI applications and driving further innovation in the field.
 
+Examples described in 1.-project.ipynb
+
 
 ## 2. Explain different categories of representation and reasoning tasks
 
@@ -66,6 +68,8 @@ Probabilistic models incorporate uncertainty into knowledge representation and r
 Constraint satisfaction models represent knowledge using a set of variables, domains, and constraints. Variables represent the unknowns or variables of interest, domains define the possible values for variables, and constraints specify relationships or conditions that must be satisfied. Reasoning in constraint satisfaction involves finding assignments to variables that satisfy all the specified constraints, providing a solution or identifying inconsistency.
 
 These categories represent different approaches to knowledge representation and reasoning, each suited for specific tasks and domains. Often, a combination of these approaches is used to handle complex real-world problems. By leveraging the appropriate representation and reasoning techniques, AI systems can effectively capture, manipulate, and reason with knowledge, leading to intelligent decision-making, problem-solving, and understanding of the world.
+
+Examples described in 2.-project.iynb
 
 
 ## 3. Assess the tradeoff between representation and reasoning
