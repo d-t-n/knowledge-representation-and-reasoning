@@ -38,3 +38,6 @@ There are several fundamental principles and techniques that underpin KRR. These
 KRR has numerous practical applications across various domains. In AI, KRR techniques are employed in expert systems, natural language processing, machine learning, and intelligent agents. In Software Engineering, KRR enables knowledge-based software development, software reuse, and automated software maintenance. KRR also plays a vital role in fields such as bioinformatics, robotics, e-commerce, and smart systems.
 
 In summary, KRR is a fundamental area of AI that focuses on representing knowledge in formal languages and enabling automated reasoning. It provides the foundation for intelligent decision-making, problem-solving, and understanding complex domains. By leveraging techniques such as ontologies, logic-based formalisms, inference engines, and probabilistic reasoning, KRR enables the development of intelligent systems that can process and reason with knowledge effectively. As KRR continues to evolve, it holds the promise of enabling more advanced AI applications and driving further innovation in the field.
+
+
+## 2. Explain different categories of representation and reasoning tasks
