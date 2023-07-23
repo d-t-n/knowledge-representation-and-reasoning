@@ -95,4 +95,8 @@ In many cases, hybrid approaches that combine different representation formalism
 
 In conclusion, the tradeoff between representation and reasoning in KRR systems involves finding the most suitable representation language and reasoning techniques for a given application. It requires considering factors like expressiveness, reasoning efficiency, scalability, and the specific needs of the domain. Striking the right balance between representation and reasoning is essential to develop effective and practical AI systems that can intelligently process and utilize knowledge in real-world scenarios.
 
+Examples described in 3.-project.iynb
+
+
+## 4. Identify which knowledge-based techniques are appropriate for which task
 
