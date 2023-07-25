@@ -99,4 +99,33 @@ Examples described in 3.-project.iynb
 
 
 ## 4. Identify which knowledge-based techniques are appropriate for which task
+As an AI expert, I can provide insights into identifying knowledge-based techniques suitable for various tasks. Knowledge-based techniques in artificial intelligence leverage domain knowledge, rules, and expert systems to solve specific problems. They are particularly useful when dealing with problems that require explicit knowledge representation, reasoning, and logical inference. Here, I'll highlight some common knowledge-based techniques and the tasks they are well-suited for:
 
+1. Expert Systems:
+Expert systems are rule-based systems that mimic human expertise to make decisions or provide recommendations. They use a knowledge base of rules and facts to reason about a problem and derive conclusions. Expert systems are well-suited for tasks that involve diagnosing medical conditions, providing financial advice, troubleshooting technical issues, and supporting decision-making in complex domains.
+
+2. Knowledge Graphs:
+Knowledge graphs organize and represent information as a graph, where entities are nodes and relationships are edges. They enable efficient querying, reasoning, and inferencing. Knowledge graphs are appropriate for tasks like semantic search, question answering, recommendation systems, and understanding complex relationships in data.
+
+3. Ontologies:
+Ontologies are formal representations of concepts and their relationships within a specific domain. They provide a shared vocabulary and structured knowledge representation. Ontologies are useful for tasks such as data integration, information retrieval, and knowledge management in fields like healthcare, finance, and biology.
+
+4. Semantic Web Technologies:
+Semantic web technologies, such as RDF (Resource Description Framework) and OWL (Web Ontology Language), facilitate the exchange and integration of data with standardized semantics. These techniques are suitable for tasks related to data interoperability, data integration, and building knowledge-rich applications.
+
+5. Rule-Based Systems:
+Rule-based systems use sets of if-then rules to make decisions or perform actions based on input conditions. They are applicable to tasks like fraud detection, business process automation, and recommendation systems.
+
+6. Case-Based Reasoning:
+Case-based reasoning involves solving new problems by reusing solutions from similar past cases. It is well-suited for tasks that require similarity matching, such as medical diagnosis, fault detection, and legal reasoning.
+
+7. Natural Language Processing (NLP):
+NLP techniques can leverage knowledge bases and ontologies to extract structured information from unstructured text. They are appropriate for tasks like named entity recognition, relation extraction, sentiment analysis, and text classification.
+
+8. Inference Engines:
+Inference engines apply logical rules to infer new information from existing facts. They are crucial for tasks that require logical reasoning, such as planning, scheduling, and decision-making in complex systems.
+
+9. Fuzzy Logic:
+Fuzzy logic handles imprecise or uncertain information and allows for approximate reasoning. It is suitable for tasks where there is ambiguity or vagueness in data, such as temperature control, risk assessment, and linguistic analysis.
+
+In summary, the choice of knowledge-based techniques depends on the nature of the task and the availability of explicit domain knowledge. These techniques can significantly enhance AI systems' capabilities in problem-solving, decision-making, and knowledge management across a wide range of domains and applications.
