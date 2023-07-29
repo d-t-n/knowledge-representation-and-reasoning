@@ -129,3 +129,8 @@ Inference engines apply logical rules to infer new information from existing fac
 Fuzzy logic handles imprecise or uncertain information and allows for approximate reasoning. It is suitable for tasks where there is ambiguity or vagueness in data, such as temperature control, risk assessment, and linguistic analysis.
 
 In summary, the choice of knowledge-based techniques depends on the nature of the task and the availability of explicit domain knowledge. These techniques can significantly enhance AI systems' capabilities in problem-solving, decision-making, and knowledge management across a wide range of domains and applications.
+
+Examples described in 4.-project.iynb
+
+
+
