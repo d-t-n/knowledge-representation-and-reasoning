@@ -1,0 +1,35 @@
+@prefix movie: <http://example.org/movie_ontology#> .
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+
+# Movies
+movie:movie1 a movie:Movie ;
+    movie:title "The Matrix" ;
+    movie:genre movie:Action ;
+    movie:actor movie:keanu_reeves ;
+    movie:actor movie:carrie_moss .
+
+movie:movie2 a movie:Movie ;
+    movie:title "The Shawshank Redemption" ;
+    movie:genre movie:Drama ;
+    movie:actor movie:tim_robbins ;
+    movie:actor movie:morgan_freeman .
+
+# Actors
+movie:keanu_reeves a foaf:Person ;
+    foaf:name "Keanu Reeves" .
+
+movie:carrie_moss a foaf:Person ;
+    foaf:name "Carrie-Anne Moss" .
+
+movie:tim_robbins a foaf:Person ;
+    foaf:name "Tim Robbins" .
+
+movie:morgan_freeman a foaf:Person ;
+    foaf:name "Morgan Freeman" .
+
+# Genres
+movie:Action a movie:Genre ;
+    movie:name "Action" .
+
+movie:Drama a movie:Genre ;
+    movie:name "Drama" .
